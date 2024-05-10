@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ejercicio 2</string>
+    <string name="problem_with_connection">Problem with connnection</string>
+    <string name="avatar_image">Avatar Character Image</string>
+    <string name="affiliation">Affiliation:</string>
+    <string name="no_affiliation">No affiliation</string>
+    <string name="gender">Gender:</string>
+    <string name="no_gender">No gender</string>
+    <string name="profession">Profession:</string>
+    <string name="no_profession">No profession</string>
+    <string name="position">Position:</string>
+    <string name="no_position">No position</string>
+    <string name="allies">Allies:</string>
+    <string name="no_allies">No allies</string>
+    <string name="enemies">Enemies:</string>
+    <string name="no_enemies">No enemies</string>
+    <string name="weapons">Weapons:</string>
+    <string name="no_weapons">No weapons</string>
+    <string name="topbar">Avatar Characters</string>
+</resources>
